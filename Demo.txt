@@ -1,0 +1,8 @@
+'''
+Omair Ahmad - 251443603
+Yukti. - 251400558
+------------------------
+AI-Powered Real-Time Suspicious Behavior Detection in CCTV Footage
+------------------------
+The link below grants access to the tests and demo, where each detection module (Fall, Erratic, Weapons) is put into action.
+Drive Link: https://drive.google.com/drive/folders/1nrCdOZhS-NkMAzWSvOMmpRKe397bnkGL?usp=drive_link
